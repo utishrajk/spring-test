@@ -20,6 +20,8 @@ public class MyController {
         list.add("Hello");
         list.add("Nice");
         list.add("World");
+        list.add("and");
+        list.add("universe");
         return list;
     }
 }
